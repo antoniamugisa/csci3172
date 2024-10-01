@@ -1,10 +1,54 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <title>Lab 3</title>
+    <meta charset="utf-8">
+    <title>CSCI 3172 Lab4</title>
+    <meta name="description" content="CSCI 3172 Lab 3">
+    <meta name="author" content="Antonia Mugisa">
+    <meta name="viewport" content="width=device-width, initial-scale= 1.0">
+    <!-- <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous"> -->
 </head>
+<style>
+    div.weekdaySelector{
+        background-color:red;
+        padding: 10px;
+        max-width: 300px;
+    }
+    .label{
+        color: white;
+    }
+
+
+</style>
 <body>
+<header class="header">
+    <h1>CSCI3172: Lab 3</h1>
+</header>
+<main class = "main">
+    <div class = "weekdaySelector">
+        <label for="weekday" class = "label">Select a weekday: </label>
+        <select name="weekday" id="weekday">
+            <option value="monday">Monday</option>
+            <option value="tuesday">Tuesday</option>
+            <option value="wednesday">Wednesday</option>
+            <option value="thursday">Thursday</option>
+            <option value="friday">Friday</option>
+            <option value="saturday">Saturday</option>
+            <option value="sunday">Sunday</option>
+        </select>
+    </div>
+    <br>
+    <form method= 'post' class = "form">
+        <label for="fName" >Number: </label>
+        <input type="number" class="numberInput" id="numberInput" placeholder="Enter a number" name="numberInput">
+        <br>
+        <button type="submit" class="button" name = "button" id = "button">Submit</button>
+
+    </form>
+    <p id = "output"></p>
+</main>
+<footer>
+</footer>
 <script src="js/script.js"></script>
 </body>
 </html>
