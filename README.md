@@ -1,4 +1,4 @@
-# Lab 1 - CSCI 3172
+# CSCI 3172
 
 **[Optional]** If what is being submitted is an individual Lab or Assignment. Otherwise, include a brief one paragraph description about the project.
 

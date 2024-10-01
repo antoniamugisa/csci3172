@@ -1,16 +1,14 @@
-# Lecture7 Activity - CSCI 3172
+# Lecture8 Activity - CSCI 3172
 
-* *Date Created*: 24 09 2024
-* *Last Modification Date*: 24 09 2024
-* *Lab URL*: https://web.cs.dal.ca/~mugisa/csci3172/activities/lecture7/
-* *Git URL*: https://git.cs.dal.ca/mugisa/lab1/-/tree/main/activities/lecture7?ref_type=heads
+* *Date Created*: 29 09 2024
+* *Last Modification Date*: 29 09 2024
+* *Lab URL*: https://web.cs.dal.ca/~mugisa/csci3172/activities/lecture8/
+* *Git URL*: https://git.cs.dal.ca/mugisa/lab1/-/tree/main/activities/lecture8?ref_type=heads
 
 
 ## Authors
 
 * [Antonia Mugisa](an235582@dal.ca) - (Developer)
-* All code was done and completed by me in this lab. 
-
 
 ## Sources Used
 
