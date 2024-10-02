@@ -38,13 +38,13 @@
 		</p>
 		<p> Please enter two numbers to perform the following addition: </p>
 		<p>
-			<input type="text" placeholder="Enter a number" name="number1" id="number1">
-			<input type="text" placeholder="Enter a number" name="number2" id="number2">
+			<input type="number" placeholder="Enter a number" name="number1" id="number1">
+			<input type="number" placeholder="Enter a number" name="number2" id="number2">
 		</p>
-		<input type="submit" name="submit" value="Add" onclick="addition()">
-		<input type="submit" name="submit" value="Subtract" onclick="subtraction()">
-		<input type="submit" name="submit" value="Multiply" onclick="multiplication()">
-		<input type="submit" name="submit" value="Divide" onclick="division()">
+		<input type="button" name="submit" value="Add" onclick="calculate('add')">
+		<input type="button" name="submit" value="Subtract" onclick="calculate('subtract')">
+		<input type="button" name="submit" value="Multiply" onclick="calculate('multiply')">
+		<input type="button" name="submit" value="Divide" onclick="calculate('divide')">
   	</form>
   	<hr>
   	<p class="create"><strong><a href="#">Create a Page</a> for a celebrity, band or business.</strong></p>
