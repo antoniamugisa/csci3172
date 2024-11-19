@@ -5,7 +5,6 @@
 * *Lab URL*: https://web.cs.dal.ca/~mugisa/csci3172/labs/lab5
 * *Git URL*: https://git.cs.dal.ca/mugisa/lab1/-/tree/main/labs/lab5?ref_type=heads
 
-
 ## Authors
 
 * [Antonia Mugisa](an235582@dal.ca) - (Developer)
